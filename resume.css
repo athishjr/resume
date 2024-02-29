@@ -1,0 +1,73 @@
+.intro{
+   
+        height: 100px;
+        width: 50%;
+        border: 1px solid gray;
+        padding: 1em;
+        display: grid;
+        grid-template-areas: "one two two"
+        "one two two"
+        "one three three";
+        gap: 1em;
+}
+
+.obj{
+    height: 100px;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
+
+.education{
+    height: 100px;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
+
+.skills{
+    height: 120px;
+    width: 70%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
+
+.unity{
+    height: 100px;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
+
+.references{
+    height: 230px;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
+
